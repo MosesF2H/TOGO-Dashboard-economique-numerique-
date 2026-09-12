@@ -173,8 +173,6 @@ with col_pie:
 
 st.markdown("</div>", unsafe_allow_html=True)
 
-    st.markdown("</div>", unsafe_allow_html=True)
-
 # ── Ligne 2 : Seuil de distance & top 15 communes prioritaires ──
 # Distance au point d'accès le plus proche, calculée sur les données géolocalisées du projet
 # et sécurisée si certaines colonnes ne sont pas présentes dans les fichiers source.
